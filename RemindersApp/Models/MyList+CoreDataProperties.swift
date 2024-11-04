@@ -1,9 +1,3 @@
-//
-//  MyList+CoreDataProperties.swift
-//  RemindersApp
-//
-//  Created by Vinh on 2/11/24.
-//
 
 import Foundation
 import CoreData
